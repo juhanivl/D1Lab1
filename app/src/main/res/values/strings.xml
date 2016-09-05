@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="firstString">Hello World!</string>
+    <string name="secondString">"2"</string>
+    <string name="alternateFirstString">Goodbye Summer</string>
+    <string name="settings">Settings</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="listArray">
+        <item>Green</item>
+        <item>More green</item>
+        <item>Little less Green</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>#bde92f</item>
+        <item>#33ff36</item>
+        <item>#c0ffee</item>
+    </string-array>
+</resources>
